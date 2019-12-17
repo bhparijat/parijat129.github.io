@@ -1,3 +1,3 @@
 ---
-permalink:/resume/
+permalink: /resume/
 ---

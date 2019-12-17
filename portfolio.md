@@ -1,3 +1,3 @@
 ---
-permalink:/portfolio/
+permalink: /portfolio/
 ---
