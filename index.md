@@ -1,4 +1,5 @@
 ---
+title: Bio
 layout: page
 permalink: /
 ---
