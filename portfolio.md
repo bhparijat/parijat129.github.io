@@ -2,6 +2,8 @@
 permalink: /portfolio/
 ---
 
+## Projects
+
 1.    Recommendation System for MovieLens Dataset
 
 2.    NYPD Crime Data Analysis
